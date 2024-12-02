@@ -13,6 +13,9 @@
 [submodule "meta-formuler"]
 	path = meta-formuler
 	url = https://github.com/OpenPLi-meta/meta-formuler.git
+[submodule "meta-vuplus"]
+	path = meta-vuplus
+	url = https://github.com/OpenPLi-meta/meta-vuplus.git
 [submodule "meta-xpeedc"]
 	path = meta-xpeedc
 	url = https://github.com/OpenPLi-meta/meta-xpeedc.git
